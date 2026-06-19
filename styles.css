@@ -1,0 +1,30 @@
+
+
+h1,
+h3 {
+  text-align: center;
+  color: rgba(114, 6, 78, 0.671);
+}
+
+
+img {
+  border-radius: 30px;
+}
+
+
+
+body {
+  background-color: rgb(168, 131, 158);
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  border-width: 50px;
+}
+
+ul {
+  width: 100%;
+  margin: auto;
+  background-color: rgb(187, 178, 183);
+  border-radius: 30px;
+}
